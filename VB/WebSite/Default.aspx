@@ -1,13 +1,13 @@
 <%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="WebApplication5._Default" %>
 
-<%@ register Assembly="DevExpress.Web.v8.3" Namespace="DevExpress.Web.ASPxTabControl"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxTabControl"
 	TagPrefix="dxtc" %>
-<%@ register Assembly="DevExpress.Web.v8.3" Namespace="DevExpress.Web.ASPxClasses"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxClasses"
 	TagPrefix="dxw" %>
 
-<%@ register Assembly="DevExpress.Web.ASPxGridView.v8.3" Namespace="DevExpress.Web.ASPxGridView"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxGridView"
 	TagPrefix="dxwgv" %>
-<%@ register Assembly="DevExpress.Web.ASPxEditors.v8.3" Namespace="DevExpress.Web.ASPxEditors"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxEditors"
 	TagPrefix="dxe" %>
 
 
