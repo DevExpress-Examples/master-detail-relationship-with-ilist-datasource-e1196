@@ -9,6 +9,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Master-detail relationship with IList datasource.
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1196/)**
+<!-- run online end -->
 
 <br/>
 
